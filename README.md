@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aLara93
+- 👋 Hi, I’m Alan Lara
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning JavaScript & HTML
 - 💞️ I am looking to collaborate on a project that leaves me with some knowledge.
 - 📫 alan.laraalanis on facebook
 
